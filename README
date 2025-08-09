@@ -8,4 +8,8 @@ n can be a arbitrary precision integer.
 
 You add 1 to n every time you check.
 
+Also, halting problem is only unsolvable with my algorithm if there exists infinite tape, which doesn't exist in reality.
+
+Also, my algorithm detects all infinite loops, but some infinite loops may be whitelisted like the OS kernel.
+
 Now where's my million dollars for proving P=NP...
